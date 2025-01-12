@@ -1,4 +1,4 @@
-# postgres-mysql-examples
+# postgres-examples
 👋 Hi, I’m @Syed-Moin
 
 👀 I’m interested in coding, web development, and data science.
