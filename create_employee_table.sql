@@ -1,7 +1,9 @@
--- Create Employee Table in PostgreSQL
-CREATE TABLE employees (
-    id SERIAL PRIMARY KEY,
-    name VARCHAR(100),
-    age INT,
-    department VARCHAR(50)
+CREATE TABLE employees(
+emp_id SERIAL PRIMARY KEY,
+fname VARCHAR(50) NOT NULL,
+lname VARCHAR(50) NOT NULL,
+email VARCHAR(100) NOT NULL UNIQUE,
+dept VARCHAR(50),
+salary DECIMAL(10,2) DEFAULT 30000.00,
+hire_date DATE  NOT NULL DEFAULT CURRENT_DATE
 );
