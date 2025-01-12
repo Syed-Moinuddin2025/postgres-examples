@@ -17,5 +17,5 @@
 😄 Pronouns: He/Him
 ⚡ Fun fact: I can debug faster than I can cook noodles! 😄
 
-
+![Image Alt](https://github.com/Syed-Moinuddin2025/postgres-examples/blob/182a484e44e562956ebdee110122c19faf4d25da/3d%20amoled.jpg)
 
